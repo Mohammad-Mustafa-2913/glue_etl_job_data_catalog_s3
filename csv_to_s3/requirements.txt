@@ -1,4 +1,0 @@
-argparse
-boto3
-botocore
-requests
